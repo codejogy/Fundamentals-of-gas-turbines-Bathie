@@ -1,0 +1,49 @@
+Se agregó la combustión con funciones
+
+-	aireSecoCombustion()
+	compuestosTabla
+	porcentajeAireSeco()
+	reaccionGeneral()
+	moleculaEntalpia()
+	excesoAire() 		-->%excAire=(s-r)/r*100
+	relCombustibleAire()
+	porcAireTeorico()
+	tablaComposicionSalida()
+	tablaComposiciónEntrada()
+-Se corrigió la interpolación, ahora se hará de manera más exacta
+
+El problema 4.4 y 4.6 dan los valores que tendrían que dar
+
+-	ecuacionIsentropica()
+-	expansionIsentropica34i()
+-	expansionIsentropica45i()
+
+-	eficienciaRegenerador()
+-	formulasRegenerador()
+
+Version.2.1
+
+-	relCombustibleAireGases()
+-	pesoCombustible()
+-Cambio en valores de molecula en función moleculaEntalpia y moleculaEntropia
+-Se creó Ejemplo5.4Pro.ipynb que es el programa que permite modificar valores de formas intuitiva
+
+Version 2.2
+
+-	valoresCompuestos()
+-	verificarEstancado()
+
+Versión 2.3
+-	valorK()
+-	ISApropiedades()
+
+Versión 2.4
+-Ejemplo6.1 hecho
+-Ejemplo6.2 hecho
+-Ejemplo6.3 hecho
+-	valoresTablaAire()
+-Ejemplo3.1() hecho
+
+Versión 2.5
+-Ejemplo 6.4 hecho
+-Ejemplo 6.5 hecho

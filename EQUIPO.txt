@@ -1,0 +1,24 @@
+Materia: Fundamentos de motores de combustión interna
+Programa hecho en: Python
+
+Programa creado en Python para poder hacer más eficiente los cálculos
+termodinámicos
+
+Se presentan los ejemplos vistos en clase basados en el libro:
+- Fundamentals of gas turbines by Bathie
+
+Programa creado originalmente por alumnos de la 
+Unidad Profesional Interdisciplinaria de Ingenieria Campus Guanajuato (UPIIG)
+
+Los ejemplos son los mismos que tiene el libro de Bathie pero recreados en Python
+
+Los ejemplos se pueden ver y modificar mediante Jupyter
+
+Dependencias.
+
+El archivo Motoresdecombustioninterna.py es la libreria que se usa para poder hacer los ejemplos.
+Si se desea ver de manera cómoda el código está el archivo Motores de combustión interna.ipynb,
+este archivo se puede abrir mediante Jupyter y de esta manera observar toda la libreria
+
+Los archivos TablasAire.xlsx y Tablasdecompuestos.xlsx son dependencias de la liberia
+Motoresdecombustioninterna.py
